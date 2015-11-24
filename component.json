@@ -1,0 +1,6 @@
+{
+    "repos": "https://github.com/christianalfoni/form-data-to-object.git",
+    "version": "v0.2.0",
+    "name": "form-data-to-object",
+    "main": "index.js"
+}
