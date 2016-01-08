@@ -1,6 +1,10 @@
 {
     "repos": "https://github.com/christianalfoni/form-data-to-object.git",
-    "version": "v0.2.0",
     "name": "form-data-to-object",
-    "main": "index.js"
+    "main": "index.js",
+    "version": "0.1.0",
+    "description": "Converts application/x-www-form-urlencoded keys to plain JS object",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {}
 }
